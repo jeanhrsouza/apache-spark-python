@@ -1,7 +1,10 @@
-<h1><center><a href="https://cursos.alura.com.br/course/spark-apresentando-ferramenta">Curso de
-Spark: apresentando a ferramenta<a/></center></h1>
-
-<img src="./assets/imgs/apache-spark-logo.svg">
+<h1>
+    <center>
+    <a href="https://cursos.alura.com.br/course/spark-apresentando-ferramenta">Curso de
+Spark: apresentando a ferramenta <a/>
+    <img src="./assets/imgs/spark-logo-reverse.png" height="50px">
+    </center>
+</h1>
 
 ---
 
@@ -17,4 +20,4 @@ todo o conteúdo estudado durante o curso
 # :man_technologist:Tecnologias e bibliotecas
 
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20px"/> Python](https://www.python.org/)
-- [<img src="./assets/imgs/apache-spark-logo.svg" height="20px"/> Spark](https://spark.apache.org/)
+- [<img src="./assets/imgs/spark-logo-reverse.png" height="20px"/> Spark](https://spark.apache.org/)
